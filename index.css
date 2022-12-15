@@ -1,0 +1,94 @@
+header {
+    background: #dfdada;
+    
+}
+
+.wrapper {
+    max-width: 1440px;
+    max-height: 1024px;
+    margin:0 auto;
+}
+
+.header-container {
+    display: flex;
+    align-items:center;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    justify-content: space-between;
+    
+    
+}
+
+.logo {
+    height:100px;
+    width:100px;
+    padding:0px;
+    left:30px;
+    top:17px;
+    position: absolute;
+   align-content: flex-start;
+   align-self: start;
+}
+
+nav ul {
+    padding: 30px;
+    list-style-type: none;
+    display: flex;
+}
+
+nav li {
+    padding: 0px px;
+    font-family: comfortaa;
+}
+
+.main-container{
+    display: flex;
+    flex-direction:column;
+    padding-top: 0px;
+    padding left: 0px;
+    
+}
+
+main {
+position: fixed;
+background-color: black;
+height: 1024vh;
+width: 400vw;
+}
+
+.spaceman {
+    position: absolute;
+    width: 609px;
+    height: 365px;
+    left: 111px;
+    top: 300px;
+    
+}
+
+.teacher {
+    position: absolute;
+    width: 209px;
+    height: 175px;
+    left: 1090px;
+    top: 480px;
+
+}
+
+.child-reading {
+    position: absolute;
+    width: auto;
+    height: 159px;
+    left: 820px;
+    top: 480px;
+}
+
+main p {
+    -webkit-text-fill-color: #fff;
+    position: absolute;
+width: 559px;
+height: 174px;
+left: 795px;
+top: 400px;
+
+}
