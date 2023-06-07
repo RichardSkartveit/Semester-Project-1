@@ -27,13 +27,15 @@ it contains
 ```bash
 git clone https://github.com/RichardSkartveit/Semester-Project-1
 ```
+#### Running
+
+This project contains only static files, so it will pretty much run on all devices. Just go into the root folder where you cloned this repo, and double click on index.html to run the file in your browser.
 
 ## Contributing
 
 As this being a school project, it is not open for contributions.
-## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+## Contact
 
 [My Github profile](https://github.com/RichardSkartveit)
 
