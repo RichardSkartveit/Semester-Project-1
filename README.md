@@ -22,26 +22,10 @@ it contains
 
 ## Getting Started
 
-### Installing
-
-This is where you list how to get the project started. It typically just includes telling a person to clone the repo and then to install the dependencies e.g.
-
-1. Clone the repo:
+### Clone the repo:
 
 ```bash
 git clone https://github.com/RichardSkartveit/Semester-Project-1
-```
-
-
-
-### Running
-
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
-
-To run the app, run the following commands:
-
-```bash
-npm run start
 ```
 
 ## Contributing
