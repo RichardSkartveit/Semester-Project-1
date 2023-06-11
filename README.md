@@ -7,7 +7,10 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Concious coffe was a school assignment where i made a webside about Coffe shop.
+Community science museum was a Semester Project, where the project was about a museum. 
+i got inspired by science mueseum, and how cool that was. Then i made this one, wich are
+based on science for kids. where it is information about things to do for kids, parents and family. 
+
 it contains
 
 -  Home page
